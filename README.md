@@ -2,7 +2,7 @@
 
 ---
 
-I'm Bartłomiej, Junior Web Developer living in Wrocław, graduated engineer in Computer Science at UWR. My professional passions are web development and indie games making. First time on my Github profile? Check out my most interesting projects!
+I'm Bartłomiej, Junior Web Developer living in Wrocław, graduated engineer in Computer Science at University of Wrocław. My professional passions are web development and indie games making. First time on my Github profile? Check out my most interesting projects!
 
 - <a href="https://github.com/TheKetrab/godot-csharp-intellisense">Godot C# Intellisense</a> - C# parser and logic to give programmer hints in concrete context
 - <a href="https://github.com/TheKetrab/MyChess">My Chess</a> - Custom implementation of chess portal
