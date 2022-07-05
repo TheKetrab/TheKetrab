@@ -1,16 +1,43 @@
-### Hi, I'm Bartłomiej 👦🏽✌🏽
+### Hi there 👦🏽✌🏽
 
 ---
 
+I'm Bartłomiej, Junior Web Developer living in Wrocław, graduated engineer in Computer Science at UWR. My professional passions are web development and indie games making. First time on my Github profile? Check out my most interesting projects!
+
+- <a href="https://github.com/TheKetrab/godot-csharp-intellisense">Godot C# Intellisense</a> - C# parser and logic to give programmer hints in concrete context
+- <a href="https://github.com/TheKetrab/MyChess">My Chess</a> - Custom implementation of chess portal
+- <a href="https://github.com/TheKetrab/University/tree/master/J%C4%99zyki%20Programowania/p1">λ Language</a> - Custom simple programming language, evaluator of lambda calculus
+- <a href="https://github.com/TheKetrab/University/tree/master/Sieci%20Komputerowe/webserver">Webserver</a> - Implementation of HTTP server written in C
+
 <table>
   <tr>
+    <td rowspan="2" width="250">
+      <h2>Skills:</h2>
+      <br/>
+      <b>→ Web stack:</b> <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="c" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="c" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="c" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="c" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="30" height="30"/>
+      <br/>
+      <br/>
+      <b>→ Languages:</b> <br/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="30" height="30"/>
+      <br/>
+      <br/>
+      <b>→ Clouds:</b> <br/>      
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="ocaml" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="ocaml" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="ocaml" width="30" height="30"/>
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="ocaml" width="30" height="30"/>
+    </td>
     <td>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheKetrab&layout=compact&hide=d&theme=dark&langs_count=6&card_width=390"/>
-    </td>
-    <td rowspan="2">
-
-      <img src="./anim.svg">
-
     </td>
   </tr>
   <tr>
@@ -22,25 +49,3 @@
 
 
 
-
-![Alt text](./anim.svg)
-<img src="./anim.svg">
-
-
-[![](https://github-readme-stats.vercel.app/api?username=TheKetrab)](https://github.com/TheKetrab/github-readme-stats)
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheKetrab&layout=compact&hide=d&theme=dark)](https://github.com/TheKetrab/github-readme-stats)
-
-<!--
-**TheKetrab/TheKetrab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
