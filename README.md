@@ -15,10 +15,10 @@ I'm Bartłomiej, Junior Web Developer living in Wrocław, graduated engineer in 
 
 <table align="center">
   <tr>
-    <td rowspan="2" width="250">
-      <h2>Skills:</h2>
+    <td rowspan="2" width="250" align="center">
+      <h2>Skills</h2>
       <br/>
-      <b>→ Web stack:</b> <br/>
+      <b>→ Web stack</b> <br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="c" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="c" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="c" width="30" height="30"/>
@@ -26,7 +26,7 @@ I'm Bartłomiej, Junior Web Developer living in Wrocław, graduated engineer in 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgres" width="30" height="30"/>
       <br/>
       <br/>
-      <b>→ Languages:</b> <br/>
+      <b>→ Languages</b> <br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="c#" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="30" height="30"/>
@@ -34,7 +34,7 @@ I'm Bartłomiej, Junior Web Developer living in Wrocław, graduated engineer in 
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ocaml/ocaml-original.svg" alt="ocaml" width="30" height="30"/>
       <br/>
       <br/>
-      <b>→ Clouds:</b> <br/>      
+      <b>→ Clouds</b> <br/>      
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="ocaml" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="ocaml" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="ocaml" width="30" height="30"/>
