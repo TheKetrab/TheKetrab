@@ -1,4 +1,4 @@
-### Hi there 👦🏽✌🏽
+<h3 align="center">Hey there, how are you today? 👦🏽✌🏽</h3>
 
 ---
 
@@ -9,7 +9,11 @@ I'm Bartłomiej, Junior Web Developer living in Wrocław, graduated engineer in 
 - <a href="https://github.com/TheKetrab/University/tree/master/J%C4%99zyki%20Programowania/p1">λ Language</a> - Custom simple programming language, evaluator of lambda calculus
 - <a href="https://github.com/TheKetrab/University/tree/master/Sieci%20Komputerowe/webserver">Webserver</a> - Implementation of HTTP server written in C
 
-<table>
+<br/>
+<p align="center"><samp>&raquo; Tech stack &laquo;</samp></p>
+<br/>
+
+<table align="center">
   <tr>
     <td rowspan="2" width="250">
       <h2>Skills:</h2>
