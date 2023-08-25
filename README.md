@@ -48,8 +48,8 @@ I'm Bartłomiej, Web & Desktop Developer living in Wrocław, graduated engineer 
 </table>
 
 ## Web projects
-- <a href="https://github.com/TheKetrab/G2-Ucieczka-webpage">G2 Ucieczka webpage</a> - [Web portal](https://g2ucieczka.pl/) dedicated to my own game
-- <a href="https://github.com/TheKetrab/mania-nickr">Mania Nickr</a> - [Web editor](https://mania-nickr.com/) for creating colorful nicks for TrackMania
+- <a href="https://github.com/TheKetrab/G2-Ucieczka-webpage">G2 Ucieczka webpage</a> - <a href="https://g2ucieczka.pl/" target="_blank">Web portal</a> dedicated to my own game
+- <a href="https://github.com/TheKetrab/mania-nickr">Mania Nickr</a> - <a href="https://mania-nickr.com/" target="_blank">Web editor</a> for creating colorful nicks for TrackMania
 - <a href="https://github.com/TheKetrab/MyChess">My Chess</a> - Custom implementation of chess portal
 
 ## Desktops
