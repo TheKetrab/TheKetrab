@@ -11,7 +11,7 @@ I'm Bartłomiej, Web & Desktop Developer living in Wrocław, graduated engineer 
     <td rowspan="2" width="300" align="center">
       <h2>Skills</h2>
       <br/>
-      <b>→ Web stack</b> <br/>
+      <b>→ Technologies</b> <br/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" alt="c" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="c" width="30" height="30"/>
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="c" width="30" height="30"/>
